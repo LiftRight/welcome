@@ -1,18 +1,19 @@
-# Hello and thank you for volunteering to take part in our study!
+# 👋🏻 Hello 
+# Thank you for volunteering to take part in our study!
 This message should help guide you through getting started. Again, we 
 thank you for your participation!
 
-## Consent
-Before you begin please take a moment to complete and return the attached IRB approved consent form.
+## 🖐🏾 Consent
+Before you begin please take a moment to complete and return the [IRB approved consent form](files/irb-consent.pdf).
 
-## Getting Started
+## 🏃🏿‍♀️ Getting Started
 Now that the administrative protocols have been met we can commence the fun part!
 
-You should have received a sensor and a neoprene arm strap. The sensor is battery powered and is charged via micro-usb. Please make sure to charge the sensor before use. The sensor needs 2hrs to fully charge and unfortunately does not give any visual indication of charge status. I recommend keeping it plugged in between sessions!
+You should have (or will shortly) received a sensor and a neoprene arm strap. The sensor is battery powered and is charged via micro-usb. Please make sure to charge the sensor before use. The sensor needs 2hrs to fully charge and unfortunately does not give any visual indication of charge status. I recommend keeping it plugged in between sessions.
 
 After I have verified your consent form and you have your sensor you will receive an email from Apple with the subject line, "Alexander Launi has invited you to test LiftRight". This email has instructions on how to install the iOS application "LiftRight". Please install the app onto your iPhone!
 
-## Setting up prior to exercising
+## 📲 Setting up prior to exercising
 Working out with LiftRight is easy and *(we hope)* fun. 
 When you launch LiftRight for the first time it will ask permission to use Bluetooth. Please accept these permissions; they are required for communication with the sensor.
 
@@ -32,7 +33,7 @@ When you launch LiftRight for the first time it will ask permission to use Bluet
 
   ![Calibrate screen](images/calibrate.png)
 
-## Working Out
+## 🏋🏼‍♂️ Working Out
 
 LiftRight tracks your movement and derives performance data for a variety of upper body exercises. Scroll through the available exercises and select one to track that exercise.
 
@@ -41,7 +42,7 @@ LiftRight tracks your movement and derives performance data for a variety of upp
 No interaction is needed between sets, LiftRight will automatically start a new set after a short timeout where no reps were performed.
 
 
-### What about exercises that LiftRight doesn't track?
+### 🤷🏻‍♀️ What about exercises that LiftRight doesn't track?
 If your workout includes exercises that aren't tracked by LiftRight, like squats or deadlifts, simply pause LiftRight.
 
   ![Press the state button](images/statebutton.png)
@@ -49,7 +50,7 @@ If your workout includes exercises that aren't tracked by LiftRight, like squats
 
 Follow the same workflow to resume when you're ready to continue with tracked exercises.
 
-## Finishing Up
+## 🏁 Finishing Up
 When you're finished exercising select `End Session`
 
   ![Press the state button](images/statebutton.png)
@@ -58,8 +59,9 @@ When you're finished exercising select `End Session`
 You'll be shown a summary of your performance, and may be presented a survey after you press `Finish`
 
   ![Workout summary](images/summary.png)
+  ![Post session survey](images/survey.png)
 
 Please complete this survey when it's presented!
 
-# Any Questions?
+# 🧐 Any Questions?
 If you have any questions, problems, or feedback outside of the data collected in the study please contact me, alaun001@odu.edu
