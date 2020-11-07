@@ -5,6 +5,7 @@ thank you for your participation!
 
 ## 🖐🏾 Consent
 Before you begin please take a moment to complete and return the [IRB approved consent form](files/irb-consent.pdf).
+Send completed and signed forms to Alex Launi <alaun001@odu.edu>.
 
 ## 🏃🏿‍♀️ Getting Started
 Now that the administrative protocols have been met we can commence the fun part!
