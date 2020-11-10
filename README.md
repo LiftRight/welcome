@@ -30,7 +30,7 @@ When you launch LiftRight for the first time it will ask permission to use Bluet
   
   ![No sensors found](images/nosensors.png)
   
-* The sensor needs to be calibrated before use. The next screen gives directions on how to wear and orient the sensor for use. The sensor should be worn on your **left arm** with the grey dot facing **down and away from your body**. When ready press the `calibrate` button at the bottom and stand still.
+* The sensor needs to be calibrated before use.The next screen gives directions on how to wear and orient the sensor for use. The sensor should be worn on your **left arm** with the grey dot facing **down and away from your body**. When ready press the `calibrate` button at the bottom and stand still with your arm hanging down at your side.
 
   ![Calibrate screen](images/calibrate.png)
 
@@ -39,6 +39,8 @@ When you launch LiftRight for the first time it will ask permission to use Bluet
 LiftRight tracks your movement and derives performance data for a variety of upper body exercises. Scroll through the available exercises and select one to track that exercise.
 
   ![Select an exercise](images/workout.png)
+
+For your first few sessions you will see a large counter. LiftRight will count your repetitions. This display will change as the study progresses.
 
 No interaction is needed between sets, LiftRight will automatically start a new set after a short timeout where no reps were performed.
 
