@@ -1,3 +1,8 @@
+---
+title: Welcome to LiftRight
+---
+
+
 # 👋🏻 Hello 
 # Thank you for volunteering to take part in our study!
 This message should help guide you through getting started. Again, we 
